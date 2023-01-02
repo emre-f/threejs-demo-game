@@ -1,0 +1,18 @@
+body { 
+    margin: 0; 
+}
+
+.message {
+    position: absolute; 
+    z-index: 1; 
+    padding: 1em;
+    color: white;
+    background: #333;
+    padding: 2px 2px 2px;
+    border-radius: 3px;
+    margin: 10px;
+}
+
+h2 {
+    color: red;
+}
